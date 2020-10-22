@@ -1,34 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Prajith Kesava Prasad",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://github.com/pkesavap/pkesavap.github.io/blob/master/images/molly.png",
+    "email": "prajithprasad112@gmail.com",
+    "phone": "",
+    "website": "https://pkesavap.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Bangalore",
+      "countryCode": "India",
+      "region": "Karnataka"
     },
     "profiles": [
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/pkesavap"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "https://in.linkedin.com/in/prajith-kesava-prasad-ab9544107"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "PrajithKPrasad",
+        "url": "http://twitter.com/PrajithKPrasad"
       },
       {
         "network": "instagram",
